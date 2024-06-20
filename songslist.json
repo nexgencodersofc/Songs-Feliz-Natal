@@ -1,28 +1,34 @@
+
 [
     {
         "title": "Song 1",
         "artist": "Artist 1",
-        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_1.mp3"
+        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_1.mp3",
+        "image" : "https://snipertrader777.github.io/Songs-Feliz-Natal/images/img_1.gif"
     },
     {
         "title": "Song 2",
         "artist": "Artist 2",
-        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_2.mp3"
+        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_2.mp3",
+        "image" : "https://snipertrader777.github.io/Songs-Feliz-Natal/images/img_2.gif"
     },
     {
         "title": "Song 3",
         "artist": "Artist 3",
-        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_3.mp3"
+        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_3.mp3",
+        "image" : "https://snipertrader777.github.io/Songs-Feliz-Natal/images/img_3.gif"
     },
     {
         "title": "Song 4",
         "artist": "Artist 4",
-        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_4.mp3"
+        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_4.mp3",
+        "image" : "https://snipertrader777.github.io/Songs-Feliz-Natal/images/img_4.gif"
     },
     {
         "title": "Song 5",
         "artist": "Artist 5",
-        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_5.mp3"
+        "url": "https://snipertrader777.github.io/Songs-Feliz-Natal/songslists/s_5.mp3",
+        "image" : "https://snipertrader777.github.io/Songs-Feliz-Natal/images/img_5.gif"
     }
     
 ]
